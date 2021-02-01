@@ -14,10 +14,6 @@ body {
   margin: 110px auto;
 }
 
-/* .container {
-  padding: 110px 240px;
-} */
-
 .header {
   display: grid;
   grid-template-columns: 1fr 1fr;

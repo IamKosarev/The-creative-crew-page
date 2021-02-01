@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://iamkosarev.github.io/The-creative-crew-page/">
       Demo
     </a>
     <span> | </span>
@@ -18,8 +18,8 @@
 
 ## Widescreen
 
-![screenshot](./screenshots/desktop.png)
+![screenshot](./screenshots/widescreen.png)
 
 ## Mobile
 
-![screenshot](./screenshots/desktop.png)
+![screenshot](./screenshots/mobile.png)
